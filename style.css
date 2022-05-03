@@ -1,0 +1,129 @@
+@font-face {
+    font-family: "YanoneKaffeesatz-VariableFont_wght";
+    src: url("Fonts/YanoneKaffeesatz-VariableFont_wght/YanoneKaffeesatz-VariableFont_wght.ttf");
+    font-style: normal;
+    font-weight:normal;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    
+}
+* {margin: @: padding: }
+body {
+    background-color:#483D8B;
+}
+
+* .logo{
+    width: 15%;
+    float: left
+    
+}
+
+* #main {
+    height: 60px
+    
+}
+
+.main-menu{
+    text-align: right
+}
+
+.main-menu-item{
+    display: inline-block;
+    padding: 10px;
+    font-size: 45px;
+    font-family: "YanoneKaffeesatz-VariableFont_wght";
+}
+.logo2{
+    margin-left: 0px;
+    margin-top: 200px;
+}
+.block{
+    color: white;
+    margin-top: 60px;
+    margin-right: 60px;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    
+    
+    
+}
+
+.Text1 {
+    display: block;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.imagert{
+    margin-left: 50px;
+    margin-top: 200px;
+    
+}
+
+
+#Black{
+    background-color: black;
+    margin-top: 50px;
+    height: 300px;
+    text-align: center;
+}
+
+
+
+.BlackText {
+    color: white;
+    font-size: 100px;
+    padding-top: 20px;
+}
+
+.Sneak2{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.Maison{
+    margin-left:0px;
+    margin-top: 0px;
+}
+.pers{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.zak{
+     margin-left: 0px;
+    margin-top: 0px;
+}   
+
+}
+.sod{
+    margin-left: 100px;
+    margin-top: 0px;
+}
+.galler{
+    margin-left:0px;
+    margin-top: 0px;
+}
+.gh{
+    margin-left:0px;
+    margin-top: 0px;
+}
+.neu{
+    margin-left:0px;
+    margin-top: 0px;
+}
+.alpha{
+    margin-left:0px;
+    margin-top: 0px;
+}
+.diva{
+    margin-left:0px;
+    margin-top: 0px;
+}
+.tank{
+    margin-left:0px;
+    margin-top: 0px;
+}
+.erter{
+     margin-left:0px;
+    margin-top: 0px;
+}
